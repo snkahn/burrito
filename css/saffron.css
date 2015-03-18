@@ -1,7 +1,28 @@
-.brandbar {
-   background-color: #60bae3;
+.person {
+  background-color: #dfdfdf;
+  background-image: -webkit-linear-gradient(top, #dfdfdf, #9b9b9b);
+  background-image:         linear-gradient(to bottom, #dfdfdf, #9b9b9b);
+  border-radius: 2.5em;
+  -webkit-box-shadow: inset 0px 6px 1px -2px #fff;
+  box-shadow: inset 0px 6px 1px -2px #fff;
+  margin: 1em;
+  padding: 1em;
+  font-size: .9em;
 }
 
-.brandbar .button {
-   background-color: #2c4e86;
+.person header {}
+.person header h5 {float:left;}
+.person header span {
+   display:block;
+   clear:both;
+   font-size: .75em;
 }
+.person header img {
+   background-color: white;
+   border-radius: 100%;
+   float:right;
+}
+.person ul {}
+.person ul li {}
+
+
