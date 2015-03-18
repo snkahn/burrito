@@ -2,6 +2,10 @@
   margin-left: 3em;
 }
 
+.panel {
+  margin-top: 1em;
+}
+
 .person {
   background-color: #dfdfdf;
   background-image: -webkit-linear-gradient(top, #dfdfdf, #9b9b9b);
