@@ -81,7 +81,7 @@ select {
   margin-right: auto;
   margin-top: 0;
   margin-bottom: 0;
-  max-width: 75rem; 
+  max-width: 96%;
   min-width:60em;
   }
   .row:before, .row:after {
