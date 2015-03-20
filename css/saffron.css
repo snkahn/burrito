@@ -1,5 +1,5 @@
 .top-bar .title-area {
-  margin-left: 3em;
+   margin-top: .3em;
 }
 
 .panel {
@@ -30,6 +30,7 @@
    float:left;
    font-size: 1.25em;
    font-weight: 400;
+   margin: .5em;
 }
 .person header span {
    display:block;
