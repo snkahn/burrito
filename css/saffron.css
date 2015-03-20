@@ -41,6 +41,7 @@
    background-color: white;
    border-radius: 100%;
    float:right;
+   margin-top: .5em;
 }
 .person ul {
    font-size:.9em;
